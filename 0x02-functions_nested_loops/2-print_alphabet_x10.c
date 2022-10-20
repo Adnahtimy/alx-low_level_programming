@@ -1,6 +1,6 @@
-#include "alphabet_x10.h"
+#include "main.h"
 /**
- * print_alphabet_x10 - Entry point
+ * main - Entry point
  * Return: x10 a-z
  */
 void print_alphabet_x10(void)
