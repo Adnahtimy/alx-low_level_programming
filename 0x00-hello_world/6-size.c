@@ -1,8 +1,8 @@
-#include<stdio.h> "main.h"
+#include<stdio.h>"main.h"
 
 /**
  * main - Entry point
- * Return int; float; double; and char;
+ * Return : 0
  */
 int main(void)
 {
@@ -10,8 +10,7 @@ int main(void)
 	float floatType;
 	double doubleType;
 	char charType;
-
-	sizeof(evaluates)
+	
 	printf("Size of int: %zu bytes\n", sizeof(intType));
 	printf("Size of float: %zu bytes\n", sizeof(floatType));
 	printf("Size of double: %zu bytes\n", sizeof(doubleType));
