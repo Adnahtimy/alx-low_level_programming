@@ -1,4 +1,5 @@
-#include <stdio.h> "main.h"
+#include <stdio.h>
+#include "main.h"
 /**
  * print_remaining_days - Entry point taking leap years into account
  * @month: month in number format
