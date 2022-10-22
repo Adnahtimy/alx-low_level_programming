@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * _isupper - Entry point uppercase letters
+ * _isupper - Entry point uppercase
  * @c: character to check
  * Return: 0 or 1
  */
